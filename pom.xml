@@ -4,7 +4,7 @@
 
 	<groupId>com.caysever</groupId>
 	<artifactId>java8</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
 	<name>java8</name>
